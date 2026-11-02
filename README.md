@@ -1,4 +1,5 @@
 # Medal & Super Credit Markers
+<img width="1920" height="1200" alt="스크린샷 2026-11-02 153048" src="https://github.com/user-attachments/assets/68bc2010-b465-41bb-8e28-3d9aa048bcbe" />
 
 A **HELLDIVERS 2** mod that marks medals and super credits lying about the map, from far away, with the game's own
 currency icons and their distance above them. It runs on **Chef Shared Loader** and works beside other Chef mods,
