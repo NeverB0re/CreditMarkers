@@ -1,0 +1,14 @@
+<svg viewBox="0 0 198 243" xmlns="http://www.w3.org/2000/svg">
+  <path d="M29,7 H227 V205 H29 V7 Z"
+    fill="#90d5f6"
+    fill-rule="evenodd"
+  />
+  <path d="M157.077,77.2375 H119.488 V114.827 H72.5 V71.065 L113.315,30.25 H157.077 V77.2375 Z M100.692,133.622 H138.283 V96.0325 H185.27 V139.795 L144.455,180.61 H100.692 V133.622 Z"
+    fill="#2b2b2b"
+    fill-rule="evenodd"
+  />
+  <path d="M227,231.25 H29 V250 H227 V231.25 Z"
+    fill="#90d5f6"
+    fill-rule="evenodd"
+  />
+</svg>

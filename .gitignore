@@ -1,0 +1,6 @@
+dist/
+test-builds/
+release/
+__pycache__/
+*.pyc
+tools/preview.png
